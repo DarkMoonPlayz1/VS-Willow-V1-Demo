@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Willow_assets.png">
+	<!-- Created with Adobe Animate version 18.0.0.107 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Willow Down0000" x="0" y="0" width="327" height="610" frameX="-1" frameY="-6" frameWidth="328" frameHeight="616"/>
+	<SubTexture name="Willow Down0001" x="327" y="0" width="325" height="612" frameX="-1" frameY="-4" frameWidth="328" frameHeight="616"/>
+	<SubTexture name="Willow Down0002" x="652" y="0" width="325" height="614" frameX="-1" frameY="-2" frameWidth="328" frameHeight="616"/>
+	<SubTexture name="Willow Down0003" x="977" y="0" width="326" height="616" frameX="0" frameY="0" frameWidth="328" frameHeight="616"/>
+	<SubTexture name="Willow Down0004" x="977" y="0" width="326" height="616" frameX="0" frameY="0" frameWidth="328" frameHeight="616"/>
+	<SubTexture name="Willow Down0005" x="977" y="0" width="326" height="616" frameX="0" frameY="0" frameWidth="328" frameHeight="616"/>
+	<SubTexture name="Willow Down0006" x="977" y="0" width="326" height="616" frameX="0" frameY="0" frameWidth="328" frameHeight="616"/>
+	<SubTexture name="Willow Down0007" x="977" y="0" width="326" height="616" frameX="0" frameY="0" frameWidth="328" frameHeight="616"/>
+	<SubTexture name="Willow Down0008" x="977" y="0" width="326" height="616" frameX="0" frameY="0" frameWidth="328" frameHeight="616"/>
+	<SubTexture name="Willow Down0009" x="977" y="0" width="326" height="616" frameX="0" frameY="0" frameWidth="328" frameHeight="616"/>
+	<SubTexture name="Willow Down0010" x="977" y="0" width="326" height="616" frameX="0" frameY="0" frameWidth="328" frameHeight="616"/>
+	<SubTexture name="Willow Down0011" x="977" y="0" width="326" height="616" frameX="0" frameY="0" frameWidth="328" frameHeight="616"/>
+	<SubTexture name="Willow Down0012" x="977" y="0" width="326" height="616" frameX="0" frameY="0" frameWidth="328" frameHeight="616"/>
+	<SubTexture name="Willow Idle0000" x="1303" y="0" width="363" height="637" frameX="0" frameY="0" frameWidth="365" frameHeight="637"/>
+	<SubTexture name="Willow Idle0001" x="1666" y="0" width="361" height="637" frameX="-3" frameY="0" frameWidth="365" frameHeight="637"/>
+	<SubTexture name="Willow Idle0002" x="2027" y="0" width="360" height="637" frameX="-5" frameY="0" frameWidth="365" frameHeight="637"/>
+	<SubTexture name="Willow Idle0003" x="2387" y="0" width="358" height="637" frameX="-7" frameY="0" frameWidth="365" frameHeight="637"/>
+	<SubTexture name="Willow Idle0004" x="2387" y="0" width="358" height="637" frameX="-7" frameY="0" frameWidth="365" frameHeight="637"/>
+	<SubTexture name="Willow Idle0005" x="2387" y="0" width="358" height="637" frameX="-7" frameY="0" frameWidth="365" frameHeight="637"/>
+	<SubTexture name="Willow Idle0006" x="2387" y="0" width="358" height="637" frameX="-7" frameY="0" frameWidth="365" frameHeight="637"/>
+	<SubTexture name="Willow Idle0007" x="2387" y="0" width="358" height="637" frameX="-7" frameY="0" frameWidth="365" frameHeight="637"/>
+	<SubTexture name="Willow Idle0008" x="2387" y="0" width="358" height="637" frameX="-7" frameY="0" frameWidth="365" frameHeight="637"/>
+	<SubTexture name="Willow Idle0009" x="2387" y="0" width="358" height="637" frameX="-7" frameY="0" frameWidth="365" frameHeight="637"/>
+	<SubTexture name="Willow Idle0010" x="2387" y="0" width="358" height="637" frameX="-7" frameY="0" frameWidth="365" frameHeight="637"/>
+	<SubTexture name="Willow Idle0011" x="2387" y="0" width="358" height="637" frameX="-7" frameY="0" frameWidth="365" frameHeight="637"/>
+	<SubTexture name="Willow Idle0012" x="2387" y="0" width="358" height="637" frameX="-7" frameY="0" frameWidth="365" frameHeight="637"/>
+	<SubTexture name="Willow Left0000" x="2745" y="0" width="280" height="626" frameX="0" frameY="-4" frameWidth="298" frameHeight="630"/>
+	<SubTexture name="Willow Left0001" x="3025" y="0" width="279" height="627" frameX="-7" frameY="-3" frameWidth="298" frameHeight="630"/>
+	<SubTexture name="Willow Left0002" x="0" y="637" width="279" height="628" frameX="-13" frameY="-2" frameWidth="298" frameHeight="630"/>
+	<SubTexture name="Willow Left0003" x="279" y="637" width="279" height="630" frameX="-19" frameY="0" frameWidth="298" frameHeight="630"/>
+	<SubTexture name="Willow Left0004" x="279" y="637" width="279" height="630" frameX="-19" frameY="0" frameWidth="298" frameHeight="630"/>
+	<SubTexture name="Willow Left0005" x="279" y="637" width="279" height="630" frameX="-19" frameY="0" frameWidth="298" frameHeight="630"/>
+	<SubTexture name="Willow Left0006" x="279" y="637" width="279" height="630" frameX="-19" frameY="0" frameWidth="298" frameHeight="630"/>
+	<SubTexture name="Willow Left0007" x="279" y="637" width="279" height="630" frameX="-19" frameY="0" frameWidth="298" frameHeight="630"/>
+	<SubTexture name="Willow Left0008" x="279" y="637" width="279" height="630" frameX="-19" frameY="0" frameWidth="298" frameHeight="630"/>
+	<SubTexture name="Willow Left0009" x="279" y="637" width="279" height="630" frameX="-19" frameY="0" frameWidth="298" frameHeight="630"/>
+	<SubTexture name="Willow Left0010" x="279" y="637" width="279" height="630" frameX="-19" frameY="0" frameWidth="298" frameHeight="630"/>
+	<SubTexture name="Willow Left0011" x="279" y="637" width="279" height="630" frameX="-19" frameY="0" frameWidth="298" frameHeight="630"/>
+	<SubTexture name="Willow Left0012" x="279" y="637" width="279" height="630" frameX="-19" frameY="0" frameWidth="298" frameHeight="630"/>
+	<SubTexture name="Willow Right0000" x="558" y="637" width="379" height="618" frameX="0" frameY="-3" frameWidth="390" frameHeight="621"/>
+	<SubTexture name="Willow Right0001" x="937" y="637" width="380" height="619" frameX="-2" frameY="-2" frameWidth="390" frameHeight="621"/>
+	<SubTexture name="Willow Right0002" x="1317" y="637" width="382" height="620" frameX="-4" frameY="-1" frameWidth="390" frameHeight="621"/>
+	<SubTexture name="Willow Right0003" x="1699" y="637" width="384" height="621" frameX="-6" frameY="0" frameWidth="390" frameHeight="621"/>
+	<SubTexture name="Willow Right0004" x="1699" y="637" width="384" height="621" frameX="-6" frameY="0" frameWidth="390" frameHeight="621"/>
+	<SubTexture name="Willow Right0005" x="1699" y="637" width="384" height="621" frameX="-6" frameY="0" frameWidth="390" frameHeight="621"/>
+	<SubTexture name="Willow Right0006" x="1699" y="637" width="384" height="621" frameX="-6" frameY="0" frameWidth="390" frameHeight="621"/>
+	<SubTexture name="Willow Right0007" x="1699" y="637" width="384" height="621" frameX="-6" frameY="0" frameWidth="390" frameHeight="621"/>
+	<SubTexture name="Willow Right0008" x="1699" y="637" width="384" height="621" frameX="-6" frameY="0" frameWidth="390" frameHeight="621"/>
+	<SubTexture name="Willow Right0009" x="1699" y="637" width="384" height="621" frameX="-6" frameY="0" frameWidth="390" frameHeight="621"/>
+	<SubTexture name="Willow Right0010" x="1699" y="637" width="384" height="621" frameX="-6" frameY="0" frameWidth="390" frameHeight="621"/>
+	<SubTexture name="Willow Right0011" x="1699" y="637" width="384" height="621" frameX="-6" frameY="0" frameWidth="390" frameHeight="621"/>
+	<SubTexture name="Willow Right0012" x="1699" y="637" width="384" height="621" frameX="-6" frameY="0" frameWidth="390" frameHeight="621"/>
+	<SubTexture name="Willow Up0000" x="2083" y="637" width="313" height="647"/>
+	<SubTexture name="Willow Up0001" x="2396" y="637" width="309" height="644" frameX="-4" frameY="-3" frameWidth="313" frameHeight="647"/>
+	<SubTexture name="Willow Up0002" x="2705" y="637" width="305" height="642" frameX="-8" frameY="-5" frameWidth="313" frameHeight="647"/>
+	<SubTexture name="Willow Up0003" x="3010" y="637" width="302" height="640" frameX="-11" frameY="-7" frameWidth="313" frameHeight="647"/>
+	<SubTexture name="Willow Up0004" x="3010" y="637" width="302" height="640" frameX="-11" frameY="-7" frameWidth="313" frameHeight="647"/>
+	<SubTexture name="Willow Up0005" x="3010" y="637" width="302" height="640" frameX="-11" frameY="-7" frameWidth="313" frameHeight="647"/>
+	<SubTexture name="Willow Up0006" x="3010" y="637" width="302" height="640" frameX="-11" frameY="-7" frameWidth="313" frameHeight="647"/>
+	<SubTexture name="Willow Up0007" x="3010" y="637" width="302" height="640" frameX="-11" frameY="-7" frameWidth="313" frameHeight="647"/>
+	<SubTexture name="Willow Up0008" x="3010" y="637" width="302" height="640" frameX="-11" frameY="-7" frameWidth="313" frameHeight="647"/>
+	<SubTexture name="Willow Up0009" x="3010" y="637" width="302" height="640" frameX="-11" frameY="-7" frameWidth="313" frameHeight="647"/>
+	<SubTexture name="Willow Up0010" x="3010" y="637" width="302" height="640" frameX="-11" frameY="-7" frameWidth="313" frameHeight="647"/>
+	<SubTexture name="Willow Up0011" x="3010" y="637" width="302" height="640" frameX="-11" frameY="-7" frameWidth="313" frameHeight="647"/>
+	<SubTexture name="Willow Up0012" x="3010" y="637" width="302" height="640" frameX="-11" frameY="-7" frameWidth="313" frameHeight="647"/>
+</TextureAtlas>
